@@ -89,10 +89,3 @@ macOS / Linux:
 
 ```bash
 java -cp out:src/resources game.GameLauncher
-`
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE).
